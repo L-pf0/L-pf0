@@ -1,8 +1,9 @@
-# Olá, eu sou a Luisa Franzoni⭐​
+# Olá, eu sou Luisa Franzoni⭐​
 
-‼️​**Estudante de Análise e Desenvolvimento de Sistemas, focada em desenvolvimento web e boas práticas de engenharia de software** 
+![Desenvolvedora Full-Stack](https://img.shields.io/badge/Desenvolvedora%20Full--Stack-8A2BE2?style=for-the-badge)
 
-💚​💙​💛​🇧🇷💚​💙​💛​
+👩🏻‍💻 Tenho 18 anos, sou Estudante de Análise e Desenvolvimento de Sistemas da faculdade UniSenai em Ribeirão Preto,**focada em desenvolvimento web Full-Stack e boas práticas de engenharia de software**
+
 
 
 ## 🎬Sobre mim​​​

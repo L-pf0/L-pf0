@@ -22,7 +22,7 @@
   <a href="https://github.com/L-pf0">
     <img src="https://img.shields.io/badge/GitHub-LuisaFranzoni-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/lui.franzonii">
+  <a href="https://www.instagram.com/lui.franzonii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@lui.franzonii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
 </p>

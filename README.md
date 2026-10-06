@@ -99,9 +99,10 @@ Sistema de gestão de estoque e maquinário para empresas do agronegócio, com p
 
 ## Minha Filosofia
 
-> _"Não escrevo código só para resolver problemas...  
-> Escrevo para construir soluções que façam sentido para seu futuro,
-e entreguem valor real para quem as usa..."_
+> _"O que você está disposto a sacrificar para ser
+extraordinário?
+>_A busca pela excelência exige dedicação e sacrifícios, mas é preciso questionar até onde vale a pena se perder para alcançar a grandeza...
+>_Whiplash: Em Busca da Perfeição."_
 
 ---
 

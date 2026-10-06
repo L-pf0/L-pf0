@@ -99,10 +99,11 @@ Sistema de gestão de estoque e maquinário para empresas do agronegócio, com p
 
 ## Minha Filosofia
 
-> _"O que você está disposto a sacrificar para ser
-extraordinário?
->_A busca pela excelência exige dedicação e sacrifícios, mas é preciso questionar até onde vale a pena se perder para alcançar a grandeza...
->_Whiplash: Em Busca da Perfeição."_
+> - "O que você está disposto a sacrificar para ser
+extraordinário?"
+> 
+> A busca pela excelência exige dedicação e sacrifícios, mas é preciso questionar até onde vale a pena se perder para alcançar a grandeza...
+>_Whiplash: Em Busca da Perfeição._
 
 ---
 
